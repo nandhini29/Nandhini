@@ -8,6 +8,6 @@ scanf("%c",&a);
 if((a>='a' && a<='z')||(a>='A' && a<='Z'))
 printf("%a ia an alphabet",a)
 else
-printf("%c is not an alphabet",a);
+printf("%a is not an alphabet",a);
 return 0;
 }
